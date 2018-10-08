@@ -1,2 +1,2 @@
 # Paint_JS
-cheap JS version of paint for educational uses
+cheap JS version of paint for educational purposes
